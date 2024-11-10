@@ -1,0 +1,22 @@
+.not-found-contianer {
+  height: 88vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-img {
+  width: 40%;
+}
+.not-found-heading {
+  color: #475569;
+  font-size: 38px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+.not-found-msg {
+  color: #64748b;
+  font-size: 17px;
+  font-weight: 500;
+  margin-top: -6px;
+}

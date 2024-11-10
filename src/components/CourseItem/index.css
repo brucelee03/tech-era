@@ -1,0 +1,14 @@
+.course-item {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 183px;
+}
+.course-logo {
+  width: 58px;
+}
+.course-name {
+  font-size: 19px;
+  font-weight: 600;
+  color: #1e293b;
+}

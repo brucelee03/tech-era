@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #f1f5f9;
+  padding: 12px 50px;
+  font-family: 'Roboto';
+}
+.link-item {
+  text-decoration: none;
+}
+.website-logo {
+  width: 140px;
+}
